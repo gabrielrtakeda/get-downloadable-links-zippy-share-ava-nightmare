@@ -1,0 +1,14 @@
+{
+  "name": "test-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "nightmare": "^2.10.0",
+    "pad": "^1.1.0"
+  },
+  "scripts": {
+    "get": "ava"
+  }
+}
